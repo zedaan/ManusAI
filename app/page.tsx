@@ -61,7 +61,7 @@ export default function Home() {
               View Documentation
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/zedaan/ManusAI"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 border border-gray-300 dark:border-gray-700 rounded-lg hover:border-gray-400 transition-colors"
